@@ -1,0 +1,23 @@
+@import url("reset.css");
+
+body {
+  background-color: #FFF;
+}
+header ul li {
+  display: inline-block;
+  background-color: #30FF4C;
+  text-align: center;
+  font-size: 3.9em;
+}
+a:hover {
+ color: red;
+ text-decoration: none;
+}
+main p {
+  background-color: #000;
+  color: #FFF;
+}
+footer {
+  text-align: center;
+  color: #FF6CF6
+}
